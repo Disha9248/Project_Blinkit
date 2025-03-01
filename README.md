@@ -49,17 +49,17 @@ The data for this project is sourced from the Kaggle dataset:
 
 ## Dashboard Features 
 
-**Sales Performance** -
+**Sales Performance** -<br>
 - Revenue trends, order volume, and seasonal patterns.
 - Sales by customer segments, Products.
-**Customer Insights** -
+**Customer Insights** -<br>
 - Demographics, time period, and payment methods.
 - Lost and New customers.
-**Inventory Analysis** -
+**Inventory Analysis** -<br>
 - Stock levels and Prices.
-**Feedback Metrics** -
+**Feedback Metrics** -<br>
 - feedback details , feedback by sentiments, and rating analysis.
-**Marketing Analysis** -
+**Marketing Analysis** -<br>
 - Analyse clicks, impressions, conversions, spend.
  <br><br>
 
