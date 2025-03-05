@@ -50,6 +50,11 @@ The data for this project is sourced from the Kaggle dataset:
 - Power BI Dashboard (7 Pages)<br><br>
   
 
+## ERD Report
+
+![ERD Image](https://github.com/user-attachments/assets/bfb3bc18-7bdb-4a89-a886-ad483b445c64)<br><br>
+
+
 ## Dashboard Features 
 
 #### **Sales Performance** -<br>
