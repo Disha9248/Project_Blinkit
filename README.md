@@ -93,7 +93,7 @@ For more pages **Download the Dashboard Planning Images (`.png`)** from this rep
 ## Dashboard Previews
 
 ### Customer Page -
-![Customer Page](https://github.com/user-attachments/assets/94659de9-22f2-4cd3-a7ec-f6d627e34f57)<br><br>
+![Customer Page](https://github.com/user-attachments/assets/98062b62-5ff7-4955-a422-1477e18a73e7)<br><br>
 
 
 ## Conclusion
