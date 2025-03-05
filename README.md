@@ -86,14 +86,14 @@ The data for this project is sourced from the Kaggle dataset:
 
 ## Dashboard Planning Preview
 
-![Customer Page](https://github.com/user-attachments/assets/b8bf1904-5084-4932-b1b0-ea5e21af857e)<br>
+![Customer Page](https://github.com/user-attachments/assets/98062b62-5ff7-4955-a422-1477e18a73e7)<br>
 For more pages **Download the Dashboard Planning Images (`.png`)** from this repository By going in Dashboard Planning Directory.<br><br> 
 
 
 ## Dashboard Previews
 
 ### Customer Page -
-![Customer Page](https://github.com/user-attachments/assets/98062b62-5ff7-4955-a422-1477e18a73e7)<br><br>
+![Customer Dashboard](https://github.com/user-attachments/assets/7c6bb386-e708-4aee-8fb5-c5a82b402bee)<br><br>
 
 
 ## Conclusion
