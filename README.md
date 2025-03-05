@@ -35,13 +35,16 @@ The data for this project is sourced from the Kaggle dataset:
 - Designed an ERD to understand data relationships.
 - Business Problem Solving in SQL
 
-#### Analyzed key performance metrics and user trends.
+#### Analyzed key performance metrics and user trends -
 - Used joins, subqueries, and aggregation functions to derive insights.
 - Views & Table Joins in SQL
 
 #### Created views for easier reporting and visualization.
 - Joined multiple tables for comprehensive analysis.
 - Data Export to Power BI
+
+#### Dashboard Planning -
+- Planned dashboard using Excalidraw
 
 #### Imported cleaned SQL data into Power BI.
 - Power BI Dashboard (7 Pages)<br><br>
@@ -74,8 +77,8 @@ The data for this project is sourced from the Kaggle dataset:
 
 ## How To Use  
 
-1. **Clone the repository**
-   ``git clone https://github.com/yourusername/Project_Blinkit.git`` 
+1. **Clone the repository**<br>
+   ```git clone https://github.com/yourusername/Project_Blinkit.git```
 2. **Import the SQL files** into your database.
 3. **Download the Power BI dashboard (`.pbix`)** from this repository to explore insights.
 <br><br>
@@ -83,7 +86,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 ## Dashboard Planning Preview
 
-![Home Page](https://github.com/user-attachments/assets/bf20ba20-13f2-4823-a098-2789d422059b)<br>
+![Customer Page](https://github.com/user-attachments/assets/b8bf1904-5084-4932-b1b0-ea5e21af857e)<br>
 For more pages **Download the Dashboard Planning Images (`.png`)** from this repository By going in Dashboard Planning Directory.<br><br> 
 
 
